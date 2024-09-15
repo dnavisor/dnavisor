@@ -83,5 +83,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dnavisor&show_icons=true&locale=en&layout=compact&theme=dark&cache_1" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dnavisor&show_icons=true&locale=en&theme=darkcache_1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dnavisor&show_icons=true&locale=en&theme=dark&cache_1" alt="GitHub Stats" />
 </p>
