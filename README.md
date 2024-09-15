@@ -80,7 +80,8 @@
 
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dnavisor&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dnavisor&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dnavisor&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=dnavisor&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
